@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/guitar-todo-app-by-react.js/static/css/main.f38972ec.css",
+    "main.js": "/guitar-todo-app-by-react.js/static/js/main.82d86e4f.js",
+    "index.html": "/guitar-todo-app-by-react.js/index.html",
+    "main.f38972ec.css.map": "/guitar-todo-app-by-react.js/static/css/main.f38972ec.css.map",
+    "main.82d86e4f.js.map": "/guitar-todo-app-by-react.js/static/js/main.82d86e4f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f38972ec.css",
+    "static/js/main.82d86e4f.js"
+  ]
+}
