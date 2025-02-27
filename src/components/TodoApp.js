@@ -7,10 +7,6 @@ import {v4 as uuidv4} from 'uuid';
 class TodoApp extends React.Component {
     state = {
         todos: [
-        {id: uuidv4(),
-        title: "Down Picking BPM 50 ~ 80",
-        completed: false
-        },
         {
         id: uuidv4(),
         title: "Alternate Picking BPM 80 ~ 100",
